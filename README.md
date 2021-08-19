@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Atualmente estou focando no front-end na stack do javascript juntamente com o React ...
+- 🌱 Atualmente meu foco está no front-end me especializando na stack do javascript juntamente com o React ...
 
 <div>
   <a href="https://github.com/LeonardoOliveira3010">
@@ -32,16 +32,20 @@ Here are some ideas to get you started:
 
 ##
 
-## Estudando 🎓🎓
+## Learning 🎓🎓
 <div>
-<img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">  
 </div>
 
 ##
 
+## Social-media
 <div> 
   
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/login" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonardo_oliveira3010@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-santos-812111102" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 

@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Atualmente meu foco está no front-end me especializando na stack do javascript juntamente com o React ...
+- 😄 Sou apaixonado por tecnologia, pra mim isso é mais pra diversão e hobby realmente. Espero desempenhar um bom papel nessa área e continuar aprendendo.
 
 <div>
   <a href="https://github.com/LeonardoOliveira3010">
